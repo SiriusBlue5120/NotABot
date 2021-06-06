@@ -1,0 +1,4 @@
+Enter **a**, **b**, or **c** for the row, and **1**, **2**, or **3** for the column.
+You will be randomly assigned :x: or :o:.
+You can stop playing by telling me that you **quit**.
+@

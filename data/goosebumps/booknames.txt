@@ -1,0 +1,7 @@
+@
+**Attack of the Beastly Babysitter**
+data\goosebumps\attackofthebeastlybabysitter\attackofthebeastlybabysitter.txt
+@
+**Beware of the Purple Peanut Butter**
+data\goosebumps\bewareofthepurplepeanutbutter\bewareofthepurplepeanutbutter.txt
+@

@@ -1,0 +1,16 @@
+.vscode
+bot
+
+data/users
+data/token.txt
+data/messageLog.txt
+data/gptLogs
+outputs
+
+models
+
+input.txt
+output.txt
+
+*__pycache__
+*__init__.py
