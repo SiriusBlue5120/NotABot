@@ -5,6 +5,9 @@ data/users
 data/token.txt
 data/messageLog.txt
 data/gptLogs
+data/botStates.json
+data/goosebumps/gbStates.json
+data/tictactoe/tttStates.json
 outputs
 
 models
